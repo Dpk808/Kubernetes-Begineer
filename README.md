@@ -21,7 +21,7 @@ Process:
 
 Dockerfile:
 
-![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture2.png))
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture2.png))
 
 
 
@@ -29,7 +29,7 @@ Dockerfile:
 
 Service.yaml
 
-![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture3.png))
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture3.png))
 
 
 
@@ -37,7 +37,7 @@ Deployment.yaml
 
 
 
-![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture4.png))
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture4.png))
 
 
 
