@@ -1,12 +1,12 @@
 # Kubernetes-Begineer
 
 
-Deploying a simple webpage using kubernetes:
+**Deploying a simple webpage using kubernetes:**
 
 
 This is the webpage:
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture1.png)
 
 
 
@@ -21,7 +21,7 @@ Process:
 
 Dockerfile:
 
-![image alt](---image address---)
+![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture2.png))
 
 
 
@@ -29,7 +29,7 @@ Dockerfile:
 
 Service.yaml
 
-![image alt](---image address---)
+![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture3.png))
 
 
 
@@ -37,7 +37,7 @@ Deployment.yaml
 
 
 
-![image alt](---image address---)
+![image alt]((https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture4.png))
 
 
 
@@ -47,18 +47,18 @@ Deployment.yaml
 
 2.Then pushed it to docker hub:
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture5.png)
 
 
 Then started the minikube :
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture6.png)
 
 
 Then deployed the project to kubernetes:
 
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture7.png)
 
 
 
@@ -66,11 +66,11 @@ Then deployed the project to kubernetes:
 And Now it has been deployed:
 
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture8.png)
 
 Enabling Scaling (optional):
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture9.png)
 
 
 
@@ -79,5 +79,5 @@ Enabling Scaling (optional):
 
 Here is the deployment:
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Kubernetes-Begineer/blob/main/photos/Picture10.png)
 
