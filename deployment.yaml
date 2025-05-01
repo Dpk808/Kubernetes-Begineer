@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: simple-static-webpage
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: simple-static-webpage
+  template:
+    metadata:
+      labels:
+        app: simple-static-webpage
+    spec:
+      containers:
+        - name: simple-static-webpage
+          image: deepakk2212/simple-static-webpage
+          ports:
+            - containerPort: 80
+
